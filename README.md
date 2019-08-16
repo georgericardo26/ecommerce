@@ -35,7 +35,7 @@ After, you will init the container service:
 
     `sudo docker-compose up`
 
-Authetication
+Authentication
 ------------
 
 For use the authentication endpoint you must provide a json object with the following informations:
