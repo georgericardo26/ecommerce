@@ -69,8 +69,8 @@ We are using 2 libraries: ***Swagger**** and **Redoc****
 `Local Swagger`: http://localhost:8000/api/v1/swagger/<br>
 `Local Redoc`: http://localhost:8000/api/v1/redoc/<br>
 <br><br>
-`Server Swagger`: http://localhost:8000/api/v1/swagger/<br>
-`Server Redoc`: http://localhost:8000/api/v1/redoc/<br>
+`Server Swagger`: Soon...<br>
+`Server Redoc`: Soon...<br>
 
 Django Admin:
 ------------
@@ -78,6 +78,6 @@ Django Admin:
 You can use this credentials test provided for access the Django admin panel
 
 `Local`: http://localhost:8000/admin/<br>
-`Server`: http://localhost:8000/admin/<br>
+`Server`: Soon...<br>
 
 
