@@ -27,6 +27,12 @@ Dependencies
 Setup
 ------------
 
+Make sure you already has docker and docker-compose installed.
+
+ `sudo apt  install docker.io`
+ 
+  `sudo apt install docker-compose`
+
 First you have to do a download of the docker image:
 
     `git clone https://gitlab.com/georgericardo26/ecommerce.git`
