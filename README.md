@@ -40,6 +40,9 @@ First you have to do a download of the docker image:
 After, you will init the container service:
 
     `sudo docker-compose up`
+    
+    
+NOTE: On Mac OS you must need share the path in -> preferences > tab File Sharing > add the project path
 
 Authentication
 ------------
