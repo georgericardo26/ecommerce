@@ -1,1 +1,1 @@
-docker exec -it cupdescapi python manage.py test
+docker exec -it ecommerce python manage.py test
