@@ -1,6 +1,6 @@
 # ecommerce
 
-This is a project that represents a technology ecommerce API Tes. This is a version test that can be extended for a production test.
+This is a project that represents a technology ecommerce API Test. This is a version test that can be extended for a production test.
 
 A minimal Django app that implements models that can to do operations into ecommerce API.
 
