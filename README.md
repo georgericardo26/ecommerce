@@ -90,3 +90,9 @@ You can use this credentials test provided for access the Django admin panel
 `Server`: Soon...<br>
 
 
+Additional Information:
+------------
+In the endpoint -> `api/v1/request/create` only user of type Client can be to do this request. 
+If you need to do a request using a Admin user, you must use the Django Admin
+
+
