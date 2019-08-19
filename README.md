@@ -14,7 +14,7 @@ A minimal Django app that implements models that can to do operations into ecomm
  - ``Brand``: Model for register the product brand.
  - ``ExtraProductType``: Model created to register all products extra characters.
  - ``ProductType``: Model created to register all product type. Ex: "Placa mãe, Processador, etc.."
- - ``Product``: Model created to register all products. (Note: It receive the typeproduct, brand and extra_product_types)
+ - ``Product``: Model created to register all products. (Note: It receive the Product Type, brand and extra_product_types)
  - ``Request``: Model created to register all requests of clients.
 
 Dependencies
